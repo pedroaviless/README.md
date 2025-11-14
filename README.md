@@ -6,6 +6,7 @@ Soy **Pedro Avilés**, estudiante de **2º de DAM** (Desarrollo de Aplicaciones 
 En este repositorio iré subiendo mis **tareas** y **código** relacionados con las siguientes asignaturas:
 - **PSP** (Programación de Servicios y Procesos)
 - **PMDM** (Programación de Dispositivos Móviles)
+- **DEINT** (Desarrollo de Interfaces)
 
 Aquí encontrarás ejemplos, ejercicios, prácticas y proyectos realizados durante el curso.
 
